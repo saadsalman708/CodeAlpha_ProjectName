@@ -15,16 +15,12 @@ const addInDisplay = (btnVal) => {
     display.value += btnVal;
 };
 
-clear.addEventListener("click" , ()=> {
-    display.value = "";
-});
-
-del.addEventListener("click" , ()=>{
+const deleteLastChar = ()=> {
     display.value === "Error" ? display.value = "" : "";
     display.value = display.value.slice(0 , -1);
-});
+};
 
-equal.addEventListener("click" , ()=> {
+const calculate = ()=> {
 
     if (!display.value) return;
     if (display.value === "Error") return display.value = "";
@@ -42,4 +38,27 @@ equal.addEventListener("click" , ()=> {
     } catch (error) {
         display.value = "Error";
     }
+};
+
+clear.addEventListener("click" , ()=> {
+    display.value = "";
+});
+
+del.addEventListener("click" , deleteLastChar);
+
+equal.addEventListener("click", calculate);
+
+
+addEventListener("keydown" , e => {
+        
+    if (e.key === "Enter") calculate();
+    if (e.key === "Backspace") deleteLastChar();
+    if (e.key === "Delete") deleteLastChar();
+    if (e.key === "Escape") display.value = "";
+    
+    const char = "1234567890%/*-+.";
+
+    if (char.includes(e.key)) {
+        addInDisplay(e.key);
+    };
 });
