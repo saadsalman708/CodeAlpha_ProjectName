@@ -6,6 +6,7 @@ const nextBtn = document.querySelector("#nextBtn");
 const pervBtn = document.querySelector("#pervBtn");
 const progressBar = document.querySelector("#progressBar");
 const progressBarContainer = document.querySelector("#progressBarContainer");
+const playListBox = document.querySelector("#playListBox");
 const playStopBtn = document.querySelector("#playStopBtn");
 const titleInput = document.querySelector("#title");
 const volumnBar = document.querySelector("#volumnBar");
@@ -206,6 +207,8 @@ const songs = [
 
 
 
+
+
 const formatTime = (seconds) => {
     const min = Math.floor(seconds / 60);
     const sec = Math.floor(seconds % 60);
@@ -226,15 +229,14 @@ const loadSong = (i = currentSongIdx) => {
 
 
 
-const changeSong = ( s , shouldPlay = false ) => {
-    // s => syntax   ,   shouldPlay => decides should next songs play
+const changeSong = (direction, shouldPlay = false) => {
+    // shouldPlay => decides should next songs play
 
     let isPlaying = !audioTag.paused;
-    // if (shouldPlay) isPlaying = true;
 
-    if (s === "+") {
+    if (direction === "+") {
         currentSongIdx = currentSongIdx >= songs.length - 1 ? 0 : currentSongIdx + 1;
-    } else {
+    } else if (direction === "-") {
         currentSongIdx = currentSongIdx <= 0 ? songs.length - 1 : currentSongIdx - 1;
     }
 
@@ -246,12 +248,38 @@ const changeSong = ( s , shouldPlay = false ) => {
 
 
 
+const playThisSong = (i)=> {
+    currentSongIdx = i;
+    changeSong(null , true)
+};
+
+
+
 const calculateProgressRatio = (e) => {
     const rect = progressBarContainer.getBoundingClientRect();
     const relativeX = (e.clientX - rect.left) / rect.width;
     const progress = Math.max(0, Math.min(1, relativeX));
     return Math.floor(progress * 100);
 };
+
+
+
+const renderPlayList = () => {
+
+    const s = songs.map(({ title, artist } , index) => {
+        return `<div onclick="playThisSong(${index})">
+                        <div>imaag</div>
+                        <div>
+                            <span>${title}</span>
+                            <br />
+                            <span>${artist}</span>
+                        </div>
+                    </div>`;
+    }).join("");
+
+    playListBox.innerHTML = s;
+};
+
 
 
 
@@ -314,5 +342,5 @@ nextBtn.addEventListener("click", () => changeSong("+"));
 
 
 
-
+renderPlayList();
 loadSong();

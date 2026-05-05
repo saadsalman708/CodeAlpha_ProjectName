@@ -54,6 +54,7 @@ button {
     background-color: aqua;
     height: 100dvh;
     min-height: 100dvh;
+    overflow-y: scroll;
 }
 
 
