@@ -37,12 +37,6 @@
     "url": "https://aac.saavncdn.com/214/83fc76a7e243d7e93dfe699e5fb9fbbe_320.mp4"
   },
   {
-    "title": "Aaj Ki Raat",
-    "artists": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya, Amitabh Bhattacharya",
-    "imgUrl": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg",
-    "url": "https://aac.saavncdn.com/373/36b1b3637cdeedfaa9a9012453948aa6_320.mp4"
-  },
-  {
     "title": "Apna Bana Le",
     "artists": "Sachin-Jigar, Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya, Varun Dhawan, Kriti Sanon",
     "imgUrl": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg",
@@ -192,12 +186,6 @@
     "url": "https://aac.saavncdn.com/279/a78933aef735d02cae046117490e4f5c_320.mp4"
   },
   {
-    "title": "Blinding Lights",
-    "artists": "The Weeknd",
-    "imgUrl": "https://c.saavncdn.com/048/After-Hours-English-2020-20200320050522-500x500.jpg",
-    "url": "https://aac.saavncdn.com/048/f6db9a3a3aad0cb1b61bf3eefec9e3ea_320.mp4"
-  },
-  {
     "title": "Bol Do Na Zara",
     "artists": "Amaal Mallik, Armaan Malik",
     "imgUrl": "https://c.saavncdn.com/633/Azhar-1-Hindi-2016-500x500.jpg",
@@ -327,12 +315,6 @@
     "url": "https://aac.saavncdn.com/623/6da85ea32a33e572ea2fc20d5d7e5c9a_320.mp4"
   },
   {
-    "title": "Gali Gali",
-    "artists": "Neha Kakkar, Tanishk Bagchi",
-    "imgUrl": "https://c.saavncdn.com/623/Kgf-Chapter-1-Hindi-2018-20181226104000-500x500.jpg",
-    "url": "https://aac.saavncdn.com/623/6da85ea32a33e572ea2fc20d5d7e5c9a_320.mp4"
-  },
-  {
     "title": "Gehra Hua",
     "artists": "Shashwat Sachdev, Arijit Singh, Armaan Khan, Irshad Kamil",
     "imgUrl": "https://c.saavncdn.com/475/Dhurandhar-Hindi-2025-20260203083204-500x500.jpg",
@@ -417,12 +399,6 @@
     "artists": "Pritam, Tochi Raina, Rekha Bhardwaj, Amitabh Bhattacharya",
     "imgUrl": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
     "url": "https://aac.saavncdn.com/440/636f3d9585675e478201a4e578508a8a_320.mp4"
-  },
-  {
-    "title": "Kesariya",
-    "artists": "Arijit Singh",
-    "imgUrl": "https://c.saavncdn.com/735/Brahmastra-Hindi-2022-20220817153036-500x500.jpg",
-    "url": "https://aac.saavncdn.com/735/2e6c0d4a24d6f7aef8c9b38a54c0df6d_320.mp4"
   },
   {
     "title": "Kesariya",
@@ -565,12 +541,6 @@
     "url": "https://aac.saavncdn.com/092/b3acb226721d5e51e788e9838f0261c3_320.mp4"
   },
   {
-    "title": "Pasoori",
-    "artists": "Shae Gill, Ali Sethi, Coke Studio",
-    "imgUrl": "https://c.saavncdn.com/314/Pasoori-Punjabi-2022-20220207124112-500x500.jpg",
-    "url": "https://aac.saavncdn.com/314/ebcf82c3931184b4fc60d2da83130c06_320.mp4"
-  },
-  {
     "title": "Pal Pal (Talwiinder Verse)",
     "artists": "Talwiinder",
     "imgUrl": "https://c.saavncdn.com/283/Pal-Pal-Talwiinder-Verse-Hindi-2025-20251217165115-500x500.jpg",
@@ -698,7 +668,7 @@
 
 
 
-  
+
   {
     "title": "Tere Ishk Mein",
     "artists": "A.R. Rahman, A.R. Rahman, Arijit Singh, Irshad Kamil, Irshad Kamil",

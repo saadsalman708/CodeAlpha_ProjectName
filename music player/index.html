@@ -1,79 +1,112 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Hookify play</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+    <link rel="stylesheet" href="style.css" />
+  </head>
 
-<body>
+  <body>
     <div class="wrapper">
-
-        <main>
-            <div class="main-body">
-                <div class="player-box">
-
-                <div class="img-display-container">
-                    <div class="img-display">
-                        <img id="img" src="https://c.saavncdn.com/023/Majboor-Hindi-2026-20260418080945-500x500.jpg">
-                    </div>
-                    <div class="bg-blur-display">
-                        <div></div>
-                        <div></div>
-                        <div></div>
-                    </div>
-                </div>
-
-                <div>
-                    <div>
-                        <h2 id="title">title</h2>
-                        <span id="artist">artist</span>
-                    </div>
-
-                    <audio id="audioTag" src="" type="audio/mp4"></audio>
-                    <!-- <audio controls>
-                        <source type="audio/mp4" src="https://www.jiosaavn.com/album/pal-pal-talwiinder-verse/v4aj0bqS9Ow_160.mp4">
-                    </audio> -->
-
-                    <div class="pB">
-                        <div id="progressBarContainer">
-                            <div id="progressBar"></div>
-                        </div>
-                        <div>
-                            <span id="currentDuration">00:00</span>/<span id="duration"></span>
-                        </div>
-                    </div>
-
-                    <div class="btns">
-                        <button id="replayBtn">Replay</button>
-                        <button id="pervBtn">Previous</button>
-                        <button id="playStopBtn">Play</button>
-                        <button id="nextBtn">Next</button>
-                    </div>
-                </div>
-
-                <div id="volumnBarContainer">
-                    <div id="volumnBar"></div>
-                </div>
-            </div>
-            
-            
-            <div id="playListContainer">
-                <div>
-                    <span>
-                        shuffle playlist
-                        <button id="shuffleBtn">shuffle</button>
-                    </span>
-                </div>
-                <div id="playListBox"></div>
-            </div>
+      <main>
+        <div id="reload" class="hidden">
+          <h1>Failed to load songs. Please try again later.</h1>
+          <button onclick="fetchSongsData(true)">
+            Reload <i class="fa-solid fa-rotate-right"></i>
+          </button>
         </div>
-        </main>
 
+        <div class="main-body">
+          <div class="player-box">
+            <div class="img-display-container">
+              <div class="img-display">
+                <img id="img" src="" />
+              </div>
+              <div class="bg-blur-display">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+            </div>
+
+            <div>
+              <div>
+                <h2 id="title">title</h2>
+                <span class="artist-box">Song by</span>
+                <span><span id="artist">artist</span></span>
+              </div>
+
+              <audio id="audioTag" src="" type="audio/mp4"></audio>
+
+              <div class="pB">
+                <div id="progressBarContainer">
+                  <div id="progressBar"></div>
+                </div>
+                <div class="duration-box">
+                  <span id="currentDuration">00:00</span>/<span id="duration"
+                    >00:00</span
+                  >
+                </div>
+              </div>
+
+              <div class="btns">
+                <button disabled id="replayBtn">
+                  <i class="fa-solid fa-rotate-right"></i>
+                </button>
+                <button disabled id="pervBtn">
+                  <i class="fa-solid fa-backward-step"></i>
+                </button>
+                <button disabled id="playStopBtn">
+                  <i class="fa-solid fa-play"></i>
+                </button>
+                <button disabled id="nextBtn">
+                  <i class="fa-solid fa-forward-step"></i>
+                </button>
+              </div>
+            </div>
+
+            <div class="volume-container">
+              <div class="volume-icons">
+                <span>
+                  <i class="fa-solid fa-volume-low"></i>
+                </span>
+                <span>
+                  <i class="fa-solid fa-volume-high"></i>
+                </span>
+              </div>
+              <div id="volumnBarContainer">
+                <div id="volumnBar"></div>
+              </div>
+            </div>
+          </div>
+
+          <div id="playListContainer">
+            <div class="shuffle-box">
+              <span> Shuffle playlist </span>
+              <button id="shuffleBtn">
+                <i class="fa-solid fa-shuffle"></i>
+              </button>
+              <div class="down-movement-for-user">
+                scroll&nbsp;
+                <span>
+                  <i class="fa-solid fa-chevron-down"></i>
+                </span>
+              </div>
+            </div>
+            <div id="playListBox"></div>
+          </div>
+        </div>
+      </main>
     </div>
-</body>
-<script src="./app.js"></script>
+  </body>
+  <script src="./app.js"></script>
 
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
 </html>
