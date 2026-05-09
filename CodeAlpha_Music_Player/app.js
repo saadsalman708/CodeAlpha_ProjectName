@@ -59,6 +59,8 @@ const toggleBtns = (isDisabled) => {
   });
 };
 
+// https://deezer.com/playlist/15246375503       // my play list
+
 const shuffleSongs = () => {
   const currentSong = songs[currentSongIdx];
 
