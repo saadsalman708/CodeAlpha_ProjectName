@@ -31,7 +31,7 @@ const fetchSongsData = async (reload = false) => {
 
   try {
     const res = await fetch(
-      "https://raw.githubusercontent.com/saadsalman708/CodeAlpha_ProjectName/refs/heads/main/music%20player/data/data.json",
+      "https://raw.githubusercontent.com/saadsalman708/codealpha_tasks/refs/heads/main/CodeAlpha_Music_Player/data/data.json",
     );
     if (!res.ok) throw new Error("Failed to fetch songs data");
     const data = await res.json();
