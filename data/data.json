@@ -1,0 +1,818 @@
+[
+  {
+    "title": "Majboor",
+    "artists": "Kartik Ariyan",
+    "imgUrl": "https://c.saavncdn.com/968/Aapka-Hi-Kehna-Banta-Hindi-2026-20260427024725-500x500.jpg",
+    "url": "https://aac.saavncdn.com/023/a914ba7d0998c3c6d108fa2fae64fc91_320.mp4"
+  },
+  {
+    "title": "nadaaniyan",
+    "artists": "Akshath, Akshath, Akshath",
+    "imgUrl": "https://c.saavncdn.com/722/nadaaniyan-Hindi-2024-20240517212238-500x500.jpg",
+    "url": "https://aac.saavncdn.com/722/6a159a825ba525d448f6cd564c20d79b_320.mp4"
+  },
+  {
+    "title": "Kashish",
+    "artists": "Ashish Bhatia, Omkar Singh, Kashish Ratnani, Ashish Bhatia",
+    "imgUrl": "https://c.saavncdn.com/767/Kashish-Hindi-2025-20250812174035-500x500.jpg",
+    "url": "https://aac.saavncdn.com/767/c76d0f4ded7e0fa16753b8efcde5d0ce_320.mp4"
+  },
+  {
+    "title": "Ishq",
+    "artists": "Faheem Abdullah, Rauhan Malik, Amir Ameer",
+    "imgUrl": "https://c.saavncdn.com/306/Lost-Found-Hindi-2024-20240517153134-500x500.jpg",
+    "url": "https://aac.saavncdn.com/306/14006318885e9fbbd00964ceba480111_320.mp4"
+  },
+  {
+    "title": "Dooron Dooron",
+    "artists": "PARESH PAHUJA, Shiv Tandan, Meghdeep Bose, Shiv Tandan",
+    "imgUrl": "https://c.saavncdn.com/615/Dooron-Dooron-Punjabi-2022-20220124231445-500x500.jpg",
+    "url": "https://aac.saavncdn.com/615/4634429434685955596238d69525a28b_320.mp4"
+  },
+
+  {
+    "title": "Akhiyaan Gulaab",
+    "artists": "Mitraz, Mitraz, Mitraz",
+    "imgUrl": "https://c.saavncdn.com/214/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500.jpg",
+    "url": "https://aac.saavncdn.com/214/83fc76a7e243d7e93dfe699e5fb9fbbe_320.mp4"
+  },
+  {
+    "title": "Apna Bana Le",
+    "artists": "Sachin-Jigar, Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya, Varun Dhawan, Kriti Sanon",
+    "imgUrl": "https://c.saavncdn.com/815/Bhediya-Hindi-2023-20230927155213-500x500.jpg",
+    "url": "https://aac.saavncdn.com/815/483a6e118e8108cbb3e5cd8701674f32_320.mp4"
+  },
+  {
+    "title": "AANKH",
+    "artists": "Sunidhi Chauhan, Rusha & Blizza, Aman Khare, Paurush Kumar, Prateeksha Srivastava",
+    "imgUrl": "https://c.saavncdn.com/198/AANKH-Hindi-2024-20241209152451-500x500.jpg",
+    "url": "https://aac.saavncdn.com/198/868f580e2ddcff99fbea46a22ac5ff06_320.mp4"
+  },
+  {
+    "title": "Aaj Ki Raat",
+    "artists": "Sachin-Jigar, Madhubanti Bagchi, Divya Kumar, Amitabh Bhattacharya, Amitabh Bhattacharya",
+    "imgUrl": "https://c.saavncdn.com/373/Stree-2-Hindi-2024-20240828083834-500x500.jpg",
+    "url": "https://aac.saavncdn.com/373/36b1b3637cdeedfaa9a9012453948aa6_320.mp4"
+  },
+  {
+    "title": "Aankhon Se Batana",
+    "artists": "Dikshant, Dikshant, Dikshant, Yash Jadhav",
+    "imgUrl": "https://c.saavncdn.com/620/Aankhon-Se-Batana-Hindi-2022-20220526142609-500x500.jpg",
+    "url": "https://aac.saavncdn.com/620/9e31bdd6f14fd647482d59d621b7abdf_320.mp4"
+  },
+  {
+    "title": "Ada",
+    "artists": "Pritam, Sonu Nigam, Sameer, Akshay Kumar, John Abraham, Nargis, Deasy, Manoj Joshi, Asrani, Rajpal Yadav",
+    "imgUrl": "https://c.saavncdn.com/575/Garam-Masala-Hindi-2005-20210226131435-500x500.jpg",
+    "url": "https://aac.saavncdn.com/575/92c1f884aa60bf2417e50449344c11b6_320.mp4"
+  },
+  {
+    "title": "Ae Dil Hai Mushkil title Track",
+    "artists": "Pritam, Arijit Singh, Ranbir Kapoor, Anushka Sharma, Aishwarya Rai Bachchan",
+    "imgUrl": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
+    "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_320.mp4"
+  },
+  {
+    "title": "Akeli Laila",
+    "artists": "Payal Dev, Aditya Dev, Salman Khan, Rashmika Mandanna",
+    "imgUrl": "https://c.saavncdn.com/702/Baaghi-4-Hindi-2025-20250903191103-500x500.jpg",
+    "url": "https://aac.saavncdn.com/702/5497d459f8e00d8848b70e8295b3be02_320.mp4"
+  },
+  {
+    "title": "Akhiyaan",
+    "artists": "Mitraz",
+    "imgUrl": "https://c.saavncdn.com/733/Akhiyaan-Hindi-2022-20220903124648-500x500.jpg",
+    "url": "https://aac.saavncdn.com/733/4410f4c4c097a552c5c70e48fd3ebceb_320.mp4"
+  },
+  {
+    "title": "Akhiyaan Gulaab",
+    "artists": "Mitraz, Mitraz, Mitraz",
+    "imgUrl": "https://c.saavncdn.com/214/Teri-Baaton-Mein-Aisa-Uljha-Jiya-Hindi-2024-20240205151011-500x500.jpg",
+    "url": "https://aac.saavncdn.com/214/83fc76a7e243d7e93dfe699e5fb9fbbe_320.mp4"
+  },
+  {
+    "title": "Allah Maaf Kare",
+    "artists": "Pritam, Sonu Nigam, Shilpa Rao, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/743/Desi-Boyz-Hindi-2011-20241223142123-500x500.jpg",
+    "url": "https://aac.saavncdn.com/743/9a98a2e84763207644a4be239fdb6013_320.mp4"
+  },
+  {
+    "title": "Angaaron",
+    "artists": "Devi Sri Prasad, Shreya Ghoshal, Raqueeb Alam",
+    "imgUrl": "https://c.saavncdn.com/306/Pushpa-2-The-Rule-Hindi-2024-20241205211002-500x500.jpg",
+    "url": "https://aac.saavncdn.com/306/d8393f0e4c3bc0308249e057ef550414_320.mp4"
+  },
+  {
+    "title": "Apna Bana Le",
+    "artists": "Sachin-Jigar, Arijit Singh, Amitabh Bhattacharya, Varun Dhawan, Kriti Sanon",
+    "imgUrl": "https://c.saavncdn.com/809/Wedding-Love-Songs-Hindi-2026-20251230172703-500x500.jpg",
+    "url": "https://aac.saavncdn.com/809/8a839d9200a725bce0b68eeae46409cf_320.mp4"
+  },
+  {
+    "title": "Arz Kiya Hai",
+    "artists": "Anuv Jain",
+    "imgUrl": "https://c.saavncdn.com/504/Arz-Kiya-Hai-Coke-Studio-Bharat-Hindi-2025-20250818054005-500x500.jpg",
+    "url": "https://aac.saavncdn.com/504/a70f9144a360aa064fadffa886e7c8b6_320.mp4"
+  },
+  {
+    "title": "Astaghfirullah",
+    "artists": "MC STAN",
+    "imgUrl": "https://c.saavncdn.com/683/Astaghfirullah-Hindi-2020-20200902225216-500x500.jpg",
+    "url": "https://aac.saavncdn.com/683/ea5ffb790768b42d6dffe17de31b0f55_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Bol Kaffara Kya Hoga",
+    "artists": "Dj Chetas, Neha Kakkar, Farhan Sabri, Lijo George, Sameer Anjaan",
+    "imgUrl": "https://c.saavncdn.com/984/Bol-Kaffara-Kya-Hoga-Hindi-2025-20250912170302-500x500.jpg",
+    "url": "https://aac.saavncdn.com/984/de35b4d1c0eeed121ec0b3e609d14235_320.mp4"
+  },
+  {
+    "title": "Baarish",
+    "artists": "Tanishk Bagchi, Ash King, Shashaa Tirupati",
+    "imgUrl": "https://c.saavncdn.com/441/Half-Girlfriend-Hindi-2017-20180622-500x500.jpg",
+    "url": "https://aac.saavncdn.com/441/41916e6d7a128fbfc03d64e317361eec_320.mp4"
+  },
+  {
+    "title": "Baaton Ko Teri",
+    "artists": "Himesh Reshammiya, Arijit Singh",
+    "imgUrl": "https://c.saavncdn.com/768/All-Is-Well-Hindi-2015-500x500.jpg",
+    "url": "https://aac.saavncdn.com/850/7e1db499d6bd7ea4feb9a253e750337f_320.mp4"
+  },
+  {
+    "title": "Bad Boy",
+    "artists": "Badshah, Neeti Mohan, Sreejo",
+    "imgUrl": "https://c.saavncdn.com/186/Saaho-Telugu-2019-20190828024553-500x500.jpg",
+    "url": "https://aac.saavncdn.com/186/d58880cd3609c1de2695cb11b4eae664_320.mp4"
+  },
+  {
+    "title": "Badtameez Dil",
+    "artists": "Pritam, Benny Dayal, Shefali Alvares",
+    "imgUrl": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+  },
+  {
+    "title": "Balma",
+    "artists": "Himesh Reshammiya, Shriram, Shreya Ghoshal",
+    "imgUrl": "https://c.saavncdn.com/485/Khiladi-786-Hindi-2012-20221213035019-500x500.jpg",
+    "url": "https://aac.saavncdn.com/485/26385add4a6e4ce3663f8ba1dd70bc42_320.mp4"
+  },
+  {
+    "title": "Barbaad",
+    "artists": "The Rish, Jubin Nautiyal",
+    "imgUrl": "https://c.saavncdn.com/598/Saiyaara-Hindi-2025-20250703061754-500x500.jpg",
+    "url": "https://aac.saavncdn.com/598/9117397be2712fb843b268a7c16b941a_320.mp4"
+  },
+  {
+    "title": "Beete Lamhein",
+    "artists": "Mithoon, KK",
+    "imgUrl": "https://c.saavncdn.com/069/The-Train-Hindi-2007-20221206121907-500x500.jpg",
+    "url": "https://aac.saavncdn.com/069/79f97cf80553a1877120c994a288b78e_320.mp4"
+  },
+  {
+    "title": "Besos",
+    "artists": "Shreya Ghoshal, Rajat Nagpal",
+    "imgUrl": "https://c.saavncdn.com/306/Besos-Hindi-2025-20250520130304-500x500.jpg",
+    "url": "https://aac.saavncdn.com/306/d51041bbc46ca7e37714ec1f8c9232ef_320.mp4"
+  },
+  {
+    "title": "Blue Eyes",
+    "artists": "Yo Yo Honey Singh",
+    "imgUrl": "https://c.saavncdn.com/279/Blue-Eyes-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/279/a78933aef735d02cae046117490e4f5c_320.mp4"
+  },
+  {
+    "title": "Bol Do Na Zara",
+    "artists": "Amaal Mallik, Armaan Malik",
+    "imgUrl": "https://c.saavncdn.com/633/Azhar-1-Hindi-2016-500x500.jpg",
+    "url": "https://aac.saavncdn.com/633/2fddfdf78b3c810d561b594d15a9456b_320.mp4"
+  },
+  {
+    "title": "Bol Kaffara Kya Hoga",
+    "artists": "Dj Chetas, Neha Kakkar, Farhan Sabri",
+    "imgUrl": "https://c.saavncdn.com/984/Bol-Kaffara-Kya-Hoga-Hindi-2025-20250912170302-500x500.jpg",
+    "url": "https://aac.saavncdn.com/984/de35b4d1c0eeed121ec0b3e609d14235_320.mp4"
+  },
+  {
+    "title": "Bom Diggy Diggy",
+    "artists": "Zack Knight, Jasmin Walia",
+    "imgUrl": "https://c.saavncdn.com/074/Sonu-Ke-Titu-Ki-Sweety-Hindi-2018-20180214153942-500x500.jpg",
+    "url": "https://aac.saavncdn.com/074/57b11cf147b198b52d68db5515c59356_320.mp4"
+  },
+  {
+    "title": "Bairan",
+    "artists": "Banjaare, Banjaare",
+    "imgUrl": "https://c.saavncdn.com/238/Bairan-Unknown-2026-20260223182954-500x500.jpg",
+    "url": "https://aac.saavncdn.com/238/a7604f7d49918d0e11520cc03e33c267_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Chahun Main Ya Naa",
+    "artists": "Jeet Gannguli, Arijit Singh, Palak Muchhal",
+    "imgUrl": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/430/5195eaf2bfed9fbadd7f5e6bf0d66427_320.mp4"
+  },
+  {
+    "title": "Chale Aana",
+    "artists": "Amaal Mallik, Armaan Malik",
+    "imgUrl": "https://c.saavncdn.com/777/De-De-Pyaar-De-Hindi-2019-20231017161947-500x500.jpg",
+    "url": "https://aac.saavncdn.com/777/be5ad77101034eb01f874e7cf9a5a825_320.mp4"
+  },
+  {
+    "title": "Chand Sifarish",
+    "artists": "Jatin-Lalit, Shaan, Kailash Kher",
+    "imgUrl": "https://c.saavncdn.com/146/Fanaa-Hindi-2006-20190329181154-500x500.jpg",
+    "url": "https://aac.saavncdn.com/146/53c9ccea6717dc94d957d1f1f5163723_320.mp4"
+  },
+  {
+    "title": "Chhod Diya",
+    "artists": "Kanika Kapoor, Arijit Singh",
+    "imgUrl": "https://c.saavncdn.com/433/Baazaar-Hindi-2019-20191018155243-500x500.jpg",
+    "url": "https://aac.saavncdn.com/433/e47d0f7dba211121b0d9dab86b7b5147_320.mp4"
+  },
+  {
+    "title": "Channa Mereya",
+    "artists": "Arijit Singh, Pritam, Amitabh Bhattacharya",
+    "imgUrl": "https://c.saavncdn.com/257/Ae-Dil-Hai-Mushkil-Hindi-2016-500x500.jpg",
+    "url": "https://aac.saavncdn.com/597/3b003e3fd083bad975ca12ca6f83c94d_320.mp4"
+  },
+  {
+    "title": "Chahun Main Ya Naa",
+    "artists": "Arijit Singh, Palak Muchhal, Jeet Gannguli",
+    "imgUrl": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/430/5195eaf2bfed9fbadd7f5e6bf0d66427_320.mp4"
+  },
+  {
+    "title": "Company",
+    "artists": "Emiway Bantai",
+    "imgUrl": "https://c.saavncdn.com/166/Company-Hindi-2023-20230121041052-500x500.jpg",
+    "url": "https://aac.saavncdn.com/166/d52185e0f46def1161daea199fbae04d_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Dilbar",
+    "artists": "Tanishk Bagchi, Neha Kakkar, Dhvani Bhanushali, Ik…, Manoj Bajpayee, Aisha Sharma, Amruta Khanvilkar",
+    "imgUrl": "https://c.saavncdn.com/333/Satyameva-Jayate-Hindi-2018-20180801-500x500.jpg",
+    "url": "https://aac.saavncdn.com/333/35b50861b2ab58628f3dea16d87cd546_320.mp4"
+  },
+  {
+    "title": "Dil Kaa Jo Haal Hai",
+    "artists": "Lalit Pandit, Abhijeet, Shreya Ghoshal, Rajeev Bar…harda, Rishi Kapoor, Neetu Kapoor, Jaaved Jaaferi",
+    "imgUrl": "https://c.saavncdn.com/972/Besharam-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/295/89e9b4c8c4e4aee6238e6a78408e5534_320.mp4"
+  },
+  {
+    "title": "Deewaniyat",
+    "artists": "Vishal Mishra, Kaushik-Guddu, Kunaal Vermaa, Kunaal Vermaa",
+    "imgUrl": "https://c.saavncdn.com/532/Deewaniyat-From-Ek-Deewane-Ki-Deewaniyat-Original-Motion-Picture-Soundtrack-Hindi-2025-20250827010315-500x500.jpg",
+    "url": "https://aac.saavncdn.com/532/d7593d8cfed94a27457641648bf3dc73_320.mp4"
+  },
+  {
+    "title": "Dil Ibaadat",
+    "artists": "Pritam, Pritam, KK, Sayeed Quadri, Sayeed Quadri, Emraan Hashmi, Soha Ali Khan",
+    "imgUrl": "https://c.saavncdn.com/316/Tum-Mile-Hindi-2009-20260120201221-500x500.jpg",
+    "url": "https://aac.saavncdn.com/316/7bc5895688704839a1686d3afb07bb7d_320.mp4"
+  },
+  {
+    "title": "Dil Galti Kar Baitha Hai",
+    "artists": "Mouni Roy, Jubin Nautiyal, Meet Bros, Shardul Rathod, Manoj Muntashir, Shardul Rathod",
+    "imgUrl": "https://c.saavncdn.com/279/Dil-Galti-Kar-Baitha-Hai-Feat-Mouni-Roy--Hindi-2021-20210924182700-500x500.jpg",
+    "url": "https://aac.saavncdn.com/279/ed9436ff383eba7d06d44e4a89c398c4_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "I Guess",
+    "artists": "KR$NA",
+    "imgUrl": "https://c.saavncdn.com/949/I-Guess-Hindi-2022-20221021113153-500x500.jpg",
+    "url": "https://aac.saavncdn.com/949/f58b3d8cc9a14f151e07d9117e552ec9_320.mp4"
+  },
+  {
+    "title": "GUESS",
+    "artists": "Emiway Bantai, Mohd Bilal Shaikh",
+    "imgUrl": "https://c.saavncdn.com/722/GUESS-Hindi-2022-20221030113051-500x500.jpg",
+    "url": "https://aac.saavncdn.com/722/5a1a5cda56500bd3ed80b3dc6259043a_320.mp4"
+  },
+  {
+    "title": "Gali Gali",
+    "artists": "Tanishk Bagchi, Neha Kakkar, Mr. Rashmi Virag",
+    "imgUrl": "https://c.saavncdn.com/623/Kgf-Chapter-1-Hindi-2018-20181226104000-500x500.jpg",
+    "url": "https://aac.saavncdn.com/623/6da85ea32a33e572ea2fc20d5d7e5c9a_320.mp4"
+  },
+  {
+    "title": "Gehra Hua",
+    "artists": "Shashwat Sachdev, Arijit Singh, Armaan Khan, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/475/Dhurandhar-Hindi-2025-20260203083204-500x500.jpg",
+    "url": "https://aac.saavncdn.com/475/04cc3b6ccd915df473947d932f094545_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Hale Dil",
+    "artists": "Harshit Saxena, Harshit Saxena, Sayeed Quadri",
+    "imgUrl": "https://c.saavncdn.com/916/Murder-2-Hindi-2011-20221211193711-500x500.jpg",
+    "url": "https://aac.saavncdn.com/916/cfdc4a58edc2b34c591c6de2ac6cd2d8_320.mp4"
+  },
+  {
+    "title": "Heeriye",
+    "artists": "Arijit Singh, Jasleen Royal, Dulquer Salmaan, Dulquer Salmaan, Jasleen Royal",
+    "imgUrl": "https://c.saavncdn.com/022/Heeriye-feat-Arijit-Singh-Hindi-2023-20230928050405-500x500.jpg",
+    "url": "https://aac.saavncdn.com/022/a192e8d320ea5630db314d04fedf0aa5_320.mp4"
+  },
+  {
+    "title": "Hua Main",
+    "artists": "JAM8, Raghav Chaitanya, Manoj Muntashir, Pritam",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/842f88a9556627914a4f4648caa4880c_320.mp4"
+  },
+  {
+    "title": "Husn",
+    "artists": "Anuv Jain",
+    "imgUrl": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg",
+    "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_320.mp4"
+  },
+  {
+    "title": "Humnava Mere",
+    "artists": "Rocky-Shiv, Jubin Nautiyal, Manoj Muntashir, Jubin Nautiyal, Romika Sharma",
+    "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+    "url": "https://aac.saavncdn.com/259/d2fdab66c38d8f252427da927db4cf4b_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Illahi",
+    "artists": "Arijit Singh, Pritam, Ranbir Kapoor, Deepika Padukone",
+    "imgUrl": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/440/71ef535f42247d0ffcd3c9cfa04cdd60_320.mp4"
+  },
+  {
+    "title": "Ishq Wala Love",
+    "artists": "Neeti Mohan, Salim Merchant, Shekhar Ravjiani",
+    "imgUrl": "https://c.saavncdn.com/017/Student-of-the-Year-Hindi-2012-500x500.jpg",
+    "url": "https://aac.saavncdn.com/017/b351bcdd5a862660b13f2c6fca2f5f0b_320.mp4"
+  },
+  {
+    "title": "I Wanna Be Yours",
+    "artists": "Alex Turner, Arctic Monkeys, TommyMuzzic",
+    "imgUrl": "https://c.saavncdn.com/698/I-Wanna-Be-Yours-Unknown-2024-20240528125036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/698/193e912289d1fc4c63a84d19e80f1296_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Jo Tum Mere Ho",
+    "artists": "Anuv Jain, Anuv Jain, Anuv Jain",
+    "imgUrl": "https://c.saavncdn.com/401/Jo-Tum-Mere-Ho-Hindi-2024-20240731053953-500x500.jpg",
+    "url": "https://aac.saavncdn.com/401/1e4444c13f76ac543c19b01d7ea0423a_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Kabira",
+    "artists": "Pritam, Tochi Raina, Rekha Bhardwaj, Amitabh Bhattacharya",
+    "imgUrl": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/440/636f3d9585675e478201a4e578508a8a_320.mp4"
+  },
+  {
+    "title": "Kesariya",
+    "artists": "Pritam, Arijit Singh",
+    "imgUrl": "https://c.saavncdn.com/191/Kesariya-From-Brahmastra-Hindi-2022-20220717092820-500x500.jpg",
+    "url": "https://aac.saavncdn.com/191/0c353932c6bb495fe0e6e885c42a7367_320.mp4"
+  },
+  {
+    "title": "Kaise Hua",
+    "artists": "Vishal Mishra, Manoj Muntashir, Shahid Kapoor",
+    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/807/9117397be2712fb843b268a7c16b941a_320.mp4"
+  },
+  {
+    "title": "Kar Gayi Chull",
+    "artists": "Badshah, Amaal Mallik, Badshah, Amaal Mallik, Fazi…maar, Sidharth Malhotra, Rishi Kapoor, Alia Bhatt",
+    "imgUrl": "https://c.saavncdn.com/978/Kapoor-Sons-Since-1921--Hindi-2016-20180504172446-500x500.jpg",
+    "url": "https://aac.saavncdn.com/978/e7a6e97299ca851067e09e31fec18e6f_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Laal Pari",
+    "artists": "Yo Yo Honey Singh, Yo Yo Honey Singh, Simar Kaur, Yo Yo Honey Singh, Alfaaz",
+    "imgUrl": "https://c.saavncdn.com/658/Housefull-5-Hindi-2025-20250606151003-500x500.jpg",
+    "url": "https://aac.saavncdn.com/658/394471f41f7d93240e7a829d882e6d69_320.mp4"
+  },
+  {
+    "title": "Labon Ko",
+    "artists": "Pritam, Pritam, KK, Sayeed Quadri",
+    "imgUrl": "https://c.saavncdn.com/056/Bhool-Bhulaiyaa-Hindi-2007-20241223151003-500x500.jpg",
+    "url": "https://aac.saavncdn.com/056/15f4ea0f635f05ede93c4169d1ece6ac_320.mp4"
+  },
+  {
+    "title": "Let Her Go x Husn",
+    "artists": "Michael David Rosenberg, Anuv Jain, Michael David Rosenberg, Anuv Jain",
+    "imgUrl": "https://c.saavncdn.com/867/Let-Her-Go-x-Husn-Hindi-2026-20260411235134-500x500.jpg",
+    "url": "https://aac.saavncdn.com/867/caa4d43adfa01b4bcdc0d9092b1d1010_320.mp4"
+  },
+  {
+    "title": "Let Me Down Slowly x Tose Naina",
+    "artists": "Alec Benjamin, Arijit Singh, TommyMuzzic, Alec Benjamin, Arijit Singh",
+    "imgUrl": "https://c.saavncdn.com/155/Let-Me-Down-Slowly-x-Tose-Naina-Unknown-2024-20240528123954-500x500.jpg",
+    "url": "https://aac.saavncdn.com/155/2631b151dcfd331cb0aeacabd5688038_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Millionaire",
+    "artists": "Yo Yo Honey Singh, Yo Yo Honey Singh, Leo Grewal",
+    "imgUrl": "https://c.saavncdn.com/173/GLORY-Hindi-2024-20250117161048-500x500.jpg",
+    "url": "https://aac.saavncdn.com/173/af61d1cf779677cd767692c0a7f3301f_320.mp4"
+  },
+  {
+    "title": "Mann Mera",
+    "artists": "Gajendra Verma, Gajendra Verma, Aseem Ahmed Abbasee",
+    "imgUrl": "https://c.saavncdn.com/196/Table-No-21-Hindi-2025-20250930143941-500x500.jpg",
+    "url": "https://aac.saavncdn.com/196/d2c7bbfceb81b066e0f72e6f78d45c3a_320.mp4"
+  },
+  {
+    "title": "Mann Mera (Original Version)",
+    "artists": "Gajendra Verma, Gajendra Verma, Aseem Ahmed Abbasee",
+    "imgUrl": "https://c.saavncdn.com/451/Mann-Mera-Original-Version-Hindi-2025-20250508175517-500x500.jpg",
+    "url": "https://aac.saavncdn.com/451/8463efa007d11e12dad979a7f94fc001_320.mp4"
+  },
+  {
+    "title": "Meri Jaan",
+    "artists": "Sanjay Leela Bhansali, Neeti Mohan, Kumaar, Alia Bhatt",
+    "imgUrl": "https://c.saavncdn.com/544/Gangubai-Kathiawadi-Hindi-2022-20220217161339-500x500.jpg",
+    "url": "https://aac.saavncdn.com/544/afd6e5a12f0e393fe42efebbd6e95ebe_sar_320.mp4"
+  },
+  {
+    "title": "Main Dhoondne Ko Zamaane Mein",
+    "artists": "Gaurav Dagaonkar, Arijit Singh, Arafat Mehmood, Ad… Arianaayam, Om Puri, Deepti Naval, Shekhar Suman",
+    "imgUrl": "https://c.saavncdn.com/112/Heartless-2014-500x500.jpg",
+    "url": "https://aac.saavncdn.com/112/7592616d8b2c04597c1ee01ec373a636_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Oo Bolega Ya Oo Oo Bolega",
+    "artists": "Devi Sri Prasad, Kanika Kapoor, Raqueeb Alam",
+    "imgUrl": "https://c.saavncdn.com/460/Pushpa-The-Rise-Part-01-Hindi-2021-20211216071001-500x500.jpg",
+    "url": "https://aac.saavncdn.com/460/358cf48917575a9483320aa7bc26aca8_320.mp4"
+  },
+  {
+    "title": "Oh Mama! TETEMA",
+    "artists": "Rayvanny, Vishal Mishra, Rayvanny, Nora Fatehi, Sh…, Terence Melvin, Joost Jellema, The Plugz Europe",
+    "imgUrl": "https://c.saavncdn.com/405/Oh-Mama-TETEMA-Hindi-2025-20250908181014-500x500.jpg",
+    "url": "https://aac.saavncdn.com/405/9a791d1f4d6dd5dccbc0c6c519b04d71_320.mp4"
+  },
+  {
+    "title": "O Maahi",
+    "artists": "Pritam, Pritam, Arijit Singh, Irshad Kamil, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg",
+    "url": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_320.mp4"
+  },
+  {
+    "title": "O Maahi",
+    "artists": "Arijit Singh, Pritam, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg",
+    "url": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Payal",
+    "artists": "Yo Yo Honey Singh, Yo Yo Honey Singh, Paradox, Paradox",
+    "imgUrl": "https://c.saavncdn.com/173/GLORY-Hindi-2024-20250117161048-500x500.jpg",
+    "url": "https://aac.saavncdn.com/173/ad5df053bfb2a4755cbb6c74e6183406_320.mp4"
+  },
+  {
+    "title": "Paisa Hai Toh",
+    "artists": "Jigar Saraiya, Sachin Sanghvi, Jigar Saraiya, Shahid Kapoor, Vijay Sethupathi",
+    "imgUrl": "https://c.saavncdn.com/134/Farzi-Original-Series-Soundtrack-Hindi-2023-20230127110223-500x500.jpg",
+    "url": "https://aac.saavncdn.com/134/cf7b0e6af6c65a579edffa05b120ed62_320.mp4"
+  },
+  {
+    "title": "Phir Bhi Tumko Chaahunga",
+    "artists": "Mithoon, Arijit Singh, Shashaa Tirupati, Mithoon, Manoj Muntashir, Arjun Kapoor, Shraddha Kapoor",
+    "imgUrl": "https://c.saavncdn.com/441/Half-Girlfriend-Hindi-2017-20180622-500x500.jpg",
+    "url": "https://aac.saavncdn.com/441/5be788f75761b20e5dbcecdd3069a1c4_320.mp4"
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artists": "Vishal Mishra, Vishal Mishra, Raj Shekhar, Raj Shekhar",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/b3acb226721d5e51e788e9838f0261c3_320.mp4"
+  },
+  {
+    "title": "Pal Pal (Talwiinder Verse)",
+    "artists": "Talwiinder",
+    "imgUrl": "https://c.saavncdn.com/283/Pal-Pal-Talwiinder-Verse-Hindi-2025-20251217165115-500x500.jpg",
+    "url": "https://aac.saavncdn.com/283/d2aa6d873d283e0c8a03d68659c0890b_320.mp4"
+  },
+  {
+    "title": "Pal Pal X Majboor",
+    "artists": "Muhammad Usmān, Anmol Virk, Muhammad Ajmal, Anushka Sharma, Ranveer Singh",
+    "imgUrl": "https://c.saavncdn.com/563/Majboor-X-Pal-Pal-Hindi-2026-20260429105823-500x500.jpg",
+    "url": "https://aac.saavncdn.com/563/9ff2dfe2abaf39531fd3d800617d32bd_320.mp4"
+  },
+  {
+    "title": "Pal",
+    "artists": "Arijit Singh, Shreya Ghoshal, Javed-Mohsin",
+    "imgUrl": "https://c.saavncdn.com/208/Pal-From-Jalebi--Hindi-2018-20180912085100-500x500.jpg",
+    "url": "https://aac.saavncdn.com/208/92ce920de988e1d67512f909edbb7525_320.mp4"
+  },
+  {
+    "title": "Pehle Bhi Main",
+    "artists": "Vishal Mishra, Raj Shekhar",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/b3acb226721d5e51e788e9838f0261c3_320.mp4"
+  },
+  {
+    "title": "Psycho Saiyaan",
+    "artists": "Tanishk Bagchi, Anirudh Ravichander, Dhvani Bhanushali, Tanishk Bagchi, Sreejo",
+    "imgUrl": "https://c.saavncdn.com/186/Saaho-Telugu-2019-20190828024553-500x500.jpg",
+    "url": "https://aac.saavncdn.com/186/a222291941fa50e393e794a3f25b174e_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Ride It (Kya Yehi Pyaar Hai) (Hindi Version)",
+    "artists": "Jay Sean",
+    "imgUrl": "https://c.saavncdn.com/805/My-Own-Way-Hindi-Version--English-2008-20191021221531-500x500.jpg",
+    "url": "https://aac.saavncdn.com/805/4d903cc84643cb2971d9d57b1f146ae8_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Sanam Teri Kasam",
+    "artists": "Himesh Reshammiya, Sameer Anjaan, Harshvardhan Rane",
+    "imgUrl": "https://c.saavncdn.com/150/Sanam-Teri-Kasam-Hindi-2025-20260404111304-500x500.jpg",
+    "url": "https://aac.saavncdn.com/150/459cf049f5cad9677640e6cda6a2e265_320.mp4"
+  },
+  {
+    "title": "Shararat",
+    "artists": "Shashwat Sachdev, Madhubanti Bagchi, Jasmine Sandl…hubanti Bagchi, Jasmine Sandlas, Shashwat Sachdev",
+    "imgUrl": "https://c.saavncdn.com/475/Dhurandhar-Hindi-2025-20260203083204-500x500.jpg",
+    "url": "https://aac.saavncdn.com/475/e41aa39fdc4b484d5dd3c976a59c72fb_320.mp4"
+  },
+  {
+    "title": "Satranga",
+    "artists": "Shreyas Puranik, Arijit Singh, Shreyas Puranik, Siddharth-Garima, Siddharth-Garima",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/d678d7ca0a158567bbddc6a10eb2f490_320.mp4"
+  },
+  {
+    "title": "Saari Duniya Jalaa Denge",
+    "artists": "Jaani, Jaani, B Praak, Jaani",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/f7bab4a74c1ab3b004bc654203fa7c7e_320.mp4"
+  },
+  {
+    "title": "Soulmate",
+    "artists": "Badshah, Badshah, Arijit Singh, Badshah",
+    "imgUrl": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-500x500.jpg",
+    "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_320.mp4"
+  },
+  {
+    "title": "Srivalli",
+    "artists": "Devi Sri Prasad, Javed Ali, Raqueeb Alam",
+    "imgUrl": "https://c.saavncdn.com/460/Pushpa-The-Rise-Part-01-Hindi-2021-20211216071001-500x500.jpg",
+    "url": "https://aac.saavncdn.com/460/29524dc000ad84ab8f21b1671dc341cb_320.mp4"
+  },
+  {
+    "title": "Subhanallah",
+    "artists": "Pritam, Sreerama Chandra, Shilpa Rao, Amitabh Bhattacharya",
+    "imgUrl": "https://c.saavncdn.com/440/Yeh-Jawaani-Hai-Deewani-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/440/e36506d338f28f4136e053f56bc8460e_320.mp4"
+  },
+  {
+    "title": "Samjho Na",
+    "artists": "Aditya Rikhari",
+    "imgUrl": "https://c.saavncdn.com/852/Samjho-Na-Hindi-2022-20220209214141-500x500.jpg",
+    "url": "https://aac.saavncdn.com/852/46aaf4908d66a295dbbc0a56b8bd60b9_320.mp4"
+  },
+  {
+    "title": "Sanam Re",
+    "artists": "Arijit Singh, Mithoon",
+    "imgUrl": "https://c.saavncdn.com/829/Sanam-Re-Hindi-2015-500x500.jpg",
+    "url": "https://aac.saavncdn.com/829/60f214aa16aadb4de15be6db3e962232_320.mp4"
+  },
+  {
+    "title": "Satranga",
+    "artists": "Arijit Singh, Shreyas Puranik, Siddharth-Garima",
+    "imgUrl": "https://c.saavncdn.com/092/ANIMAL-Hindi-2023-20231124191036-500x500.jpg",
+    "url": "https://aac.saavncdn.com/092/d678d7ca0a158567bbddc6a10eb2f490_320.mp4"
+  },
+  {
+    "title": "Shayad",
+    "artists": "Pritam, Arijit Singh, Irshad Kamil, Sara Ali Khan, Kartik Aaryan",
+    "imgUrl": "https://c.saavncdn.com/862/Love-Aaj-Kal-Hindi-2020-20200214140423-500x500.jpg",
+    "url": "https://aac.saavncdn.com/862/e277c1b441b562640c6b264aa3335a83_320.mp4"
+  },
+  {
+    "title": "Soulmate",
+    "artists": "Badshah, Arijit Singh",
+    "imgUrl": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-500x500.jpg",
+    "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_320.mp4"
+  },
+  {
+    "title": "Sheesha (Aakhya Mai Aakh Ghali Jo Bairan)",
+    "artists": "Mitta Ror, Mitta Ror",
+    "imgUrl": "https://c.saavncdn.com/034/Sheesha-Aakhya-Mai-Aakh-Ghali-Jo-Beran-Unknown-2026-20260123134431-500x500.jpg",
+    "url": "https://aac.saavncdn.com/034/c9725383991c4dd1870b9da17f549b1e_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Tere Ishk Mein",
+    "artists": "A.R. Rahman, A.R. Rahman, Arijit Singh, Irshad Kamil, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/733/Tere-Ishk-Mein-Hindi-2025-20251203141038-500x500.jpg",
+    "url": "https://aac.saavncdn.com/733/9cf25232bf9e5add8415b8ca24505447_320.mp4"
+  },
+  {
+    "title": "Tu Hain Toh Main Hoon",
+    "artists": "Tanishk Bagchi, Arijit Singh, Afsana Khan, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/666/Tu-Hain-Toh-Main-Hoon-From-Sky-Force-Hindi-2025-20250210133226-500x500.jpg",
+    "url": "https://aac.saavncdn.com/666/c55b5220eed4fce1700c8bfbc23a69be_320.mp4"
+  },
+  {
+    "title": "Tu Hi Haqeeqat",
+    "artists": "Pritam, Pritam, Javed Ali, Irshan Ashraf, Shadab, …adri, Sayeed Quadri, Emraan Hashmi, Soha Ali Khan",
+    "imgUrl": "https://c.saavncdn.com/316/Tum-Mile-Hindi-2009-20260120201221-500x500.jpg",
+    "url": "https://aac.saavncdn.com/316/2a3b131bf5c5a532535140104049df19_320.mp4"
+  },
+  {
+    "title": "Tennu Le Kejo Na",
+    "artists": "Bappi Lahiri, Omer Inayat, Omer Inayat, Arbaaz Khan, Fardeen Khan, Kunal Kemmu, Dia Mirza",
+    "imgUrl": "https://c.saavncdn.com/828/Jai-Veeru-2009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/828/7c4c258c4026256c6a983b3db5816ef5_320.mp4"
+  },
+  {
+    "title": "Tera Mera Hai Pyar Amar",
+    "artists": "Ahmed Jahanzeb, Tabun Sutradhar, Anjaan, Dev Anand, Sadhana",
+    "imgUrl": "https://c.saavncdn.com/884/Tera-Mera-Hai-Pyar-Amar-Deluxe-Version-Hindi-2024-20251120113552-500x500.jpg",
+    "url": "https://aac.saavncdn.com/659/d0cae5a66528a7b527696a0b5497a0bc_320.mp4"
+  },
+  {
+    "title": "Tera Ban Jaunga",
+    "artists": "Akhil Sachdeva, Tulsi Kumar, Kumaar",
+    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/807/e2912f718870ed292857406a3832d2e1_320.mp4"
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "artists": "Mithoon, Arijit Singh, Mithoon",
+    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/807/5826f6345e03297a7a72675a89635b71_320.mp4"
+  },
+  {
+    "title": "Tujhe Kitna Chahne Lage",
+    "artists": "Arijit Singh, Mithoon",
+    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/807/5826f6345e03297a7a72675a89635b71_320.mp4"
+  },
+  {
+    "title": "Tera Ban Jaunga",
+    "artists": "Akhil Sachdeva, Tulsi Kumar, Kumaar",
+    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
+    "url": "https://aac.saavncdn.com/807/e2912f718870ed292857406a3832d2e1_320.mp4"
+  },
+  {
+    "title": "Tere Ishk Mein",
+    "artists": "Arijit Singh, A.R. Rahman, Irshad Kamil",
+    "imgUrl": "https://c.saavncdn.com/733/Tere-Ishk-Mein-Hindi-2025-20251203141038-500x500.jpg",
+    "url": "https://aac.saavncdn.com/733/9cf25232bf9e5add8415b8ca24505447_320.mp4"
+  },
+  {
+    "title": "Tere Vaaste",
+    "artists": "Varun Jain, Sachin-Jigar, Shadab Faridi, Altamash Faridi",
+    "imgUrl": "https://c.saavncdn.com/336/Zara-Hatke-Zara-Bachke-Hindi-2023-20250129153124-500x500.jpg",
+    "url": "https://aac.saavncdn.com/336/31a0f4ff872d7e6e47e23b02c8bc0331_320.mp4"
+  },
+  {
+    "title": "Tu Hi Haqeeqat",
+    "artists": "Javed Ali, Pritam, Sayeed Quadri",
+    "imgUrl": "https://c.saavncdn.com/316/Tum-Mile-Hindi-2009-20260120201221-500x500.jpg",
+    "url": "https://aac.saavncdn.com/316/2a3b131bf5c5a532535140104049df19_320.mp4"
+  },
+  {
+    "title": "Tum Hi Ho",
+    "artists": "Arijit Singh, Mithoon, Shraddha Kapoor",
+    "imgUrl": "https://c.saavncdn.com/430/Aashiqui-2-Hindi-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/430/8404786370163351_320.mp4"
+  },
+  {
+    "title": "Tum Ho Toh",
+    "artists": "Vishal Mishra, Hansika Pareek, Raj Shekhar",
+    "imgUrl": "https://c.saavncdn.com/598/Saiyaara-Hindi-2025-20250703061754-500x500.jpg",
+    "url": "https://aac.saavncdn.com/598/55a75f7dd5eb4ff90d8c46ba727912ae_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Uska Hi Banana",
+    "artists": "Arijit Singh, Chirantann Bhatt, Junaid Wasi",
+    "imgUrl": "https://c.saavncdn.com/256/1920-Evil-Returns-Hindi-2012-20221213041144-500x500.jpg",
+    "url": "https://aac.saavncdn.com/256/a574d8f7763495c42979a64bb75dae34_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Ve Kamleya",
+    "artists": "Arijit Singh, Shreya Ghoshal, Pritam, Amitabh Bhattacharya",
+    "imgUrl": "https://c.saavncdn.com/001/Rocky-Aur-Rani-Kii-Prem-Kahaani-Hindi-2023-20250130073112-500x500.jpg",
+    "url": "https://aac.saavncdn.com/001/f2a6e1f5d4e929ba7962bc2a494c4b17_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Ye Tune Kya Kiya",
+    "artists": "Javed Bashir, Pritam, Rajat Arora",
+    "imgUrl": "https://c.saavncdn.com/243/Once-Upon-A-Time-In-Mumbaai-Dobara-2013-500x500.jpg",
+    "url": "https://aac.saavncdn.com/243/36d2153a66bce62eb948ab4b8598ed6d_320.mp4"
+  },
+
+
+
+
+
+  {
+    "title": "Zihaal e Miskin",
+    "artists": "Javed-Mohsin, Laxmikant - Pyarelal, Javed-Mohsin, …hal Mishra, Shreya Ghoshal, Gulzar, Kunaal Vermaa",
+    "imgUrl": "https://c.saavncdn.com/424/Zihaal-e-Miskin-Hindi-2023-20230523053359-500x500.jpg",
+    "url": "https://aac.saavncdn.com/424/f149d877be5aeca688ba64f8a9812c14_320.mp4"
+  },
+  {
+    "title": "Zaalima",
+    "artists": "Vishal Mishra, Shreya Ghoshal, Javed-Mohsin",
+    "imgUrl": "https://c.saavncdn.com/334/Raees-Hindi-2016-20200430093124-500x500.jpg",
+    "url": "https://aac.saavncdn.com/334/8664a7ce4382bbeba661b46b5e0fe459_320.mp4"
+  },
+  {
+    "title": "Zara Sa",
+    "artists": "KK, Pritam, Sayeed Quadri",
+    "imgUrl": "https://c.saavncdn.com/801/Jannat-Hindi-2008-20190629135803-500x500.jpg",
+    "url": "https://aac.saavncdn.com/801/571617f7810fb699ed56bc8a7d9e40d9_320.mp4"
+  },
+  {
+    "title": "Zara Zara",
+    "artists": "Bombay Jayashri, Harris Jayaraj, Sameer",
+    "imgUrl": "https://c.saavncdn.com/059/Zara-Zara-Hindi-2023-20250130063130-500x500.jpg",
+    "url": "https://aac.saavncdn.com/059/ebcf82c3931184b4fc60d2da83130c06_320.mp4"
+  }
+]
