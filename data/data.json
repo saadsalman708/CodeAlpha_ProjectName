@@ -501,12 +501,6 @@
   },
   {
     "title": "O Maahi",
-    "artists": "Pritam, Pritam, Arijit Singh, Irshad Kamil, Irshad Kamil",
-    "imgUrl": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg",
-    "url": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_320.mp4"
-  },
-  {
-    "title": "O Maahi",
     "artists": "Arijit Singh, Pritam, Irshad Kamil",
     "imgUrl": "https://c.saavncdn.com/139/Dunki-Hindi-2023-20231220211003-500x500.jpg",
     "url": "https://aac.saavncdn.com/139/61036495c7ba45adf72a856b60f054fd_320.mp4"
@@ -611,12 +605,6 @@
     "url": "https://aac.saavncdn.com/092/f7bab4a74c1ab3b004bc654203fa7c7e_320.mp4"
   },
   {
-    "title": "Soulmate",
-    "artists": "Badshah, Badshah, Arijit Singh, Badshah",
-    "imgUrl": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-500x500.jpg",
-    "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_320.mp4"
-  },
-  {
     "title": "Srivalli",
     "artists": "Devi Sri Prasad, Javed Ali, Raqueeb Alam",
     "imgUrl": "https://c.saavncdn.com/460/Pushpa-The-Rise-Part-01-Hindi-2021-20211216071001-500x500.jpg",
@@ -683,7 +671,7 @@
   },
   {
     "title": "Tu Hi Haqeeqat",
-    "artists": "Pritam, Pritam, Javed Ali, Irshan Ashraf, Shadab, …adri, Sayeed Quadri, Emraan Hashmi, Soha Ali Khan",
+    "artists": "Pritam, Javed Ali, Irshan Ashraf, Shadab, Sayeed Quadri, Emraan Hashmi, Soha Ali Khan",
     "imgUrl": "https://c.saavncdn.com/316/Tum-Mile-Hindi-2009-20260120201221-500x500.jpg",
     "url": "https://aac.saavncdn.com/316/2a3b131bf5c5a532535140104049df19_320.mp4"
   },
@@ -710,18 +698,6 @@
     "artists": "Mithoon, Arijit Singh, Mithoon",
     "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
     "url": "https://aac.saavncdn.com/807/5826f6345e03297a7a72675a89635b71_320.mp4"
-  },
-  {
-    "title": "Tujhe Kitna Chahne Lage",
-    "artists": "Arijit Singh, Mithoon",
-    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
-    "url": "https://aac.saavncdn.com/807/5826f6345e03297a7a72675a89635b71_320.mp4"
-  },
-  {
-    "title": "Tera Ban Jaunga",
-    "artists": "Akhil Sachdeva, Tulsi Kumar, Kumaar",
-    "imgUrl": "https://c.saavncdn.com/807/Kabir-Singh-Hindi-2019-20190614075009-500x500.jpg",
-    "url": "https://aac.saavncdn.com/807/e2912f718870ed292857406a3832d2e1_320.mp4"
   },
   {
     "title": "Tere Ishk Mein",
@@ -793,7 +769,7 @@
 
   {
     "title": "Zihaal e Miskin",
-    "artists": "Javed-Mohsin, Laxmikant - Pyarelal, Javed-Mohsin, …hal Mishra, Shreya Ghoshal, Gulzar, Kunaal Vermaa",
+    "artists": "Javed-Mohsin, Laxmikant - Pyarelal, Javed-Mohsin, Shreya Ghoshal, Gulzar, Kunaal Vermaa",
     "imgUrl": "https://c.saavncdn.com/424/Zihaal-e-Miskin-Hindi-2023-20230523053359-500x500.jpg",
     "url": "https://aac.saavncdn.com/424/f149d877be5aeca688ba64f8a9812c14_320.mp4"
   },

@@ -28,6 +28,7 @@ body {
   gap: 2rem;
   justify-content: center;
   padding: 2.5rem;
+  overflow: hidden;
 }
 
 .img-display-container {
